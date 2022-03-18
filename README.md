@@ -1,4 +1,5 @@
 # IftarSahur_bot
+[@iftarsahurbot](https://t.me/iftarsahurbot)
 [@iftarSahur_bot](https://t.me/iftarsahur_bot)
 
 ## Heroku
@@ -15,4 +16,5 @@ python3 iftarsahur_bot.py
 ```
 
 ## İletişim
-Telegram: [@kursadHD](https://t.me/kursadHD)
+Telegram: [@kursadHD](https://t.me/kursadHD) / [@tioxs](https://t.me/tioxs)
+
